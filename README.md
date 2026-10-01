@@ -34,6 +34,8 @@ I'm a passionate Health Data Scientist with experience in biostatistics and mach
 ![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+<!-- TO DO: add details about my projects later
+
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)
@@ -51,3 +53,5 @@ I'm a passionate Health Data Scientist with experience in biostatistics and mach
 ## Get in Touch 📬
 
 - **[LinkedIn]**(your_linkedin_profile_link)
+
+-->
